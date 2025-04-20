@@ -22,7 +22,9 @@ Since the dataset was too large, we uploaded it to Google Drive: https://drive.g
 
 RUN:
 If you want to train our model again, you can use:
+
 python train.py
 
 If you want to run motion-to-music demo, you can use:
+
 python predict_and_play.py test_face.jpg
