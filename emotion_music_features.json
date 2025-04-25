@@ -1,0 +1,186 @@
+{
+  "happy": {
+    "tempo": [
+      84,
+      151
+    ],
+    "mode": "minor",
+    "pitch_range": [
+      96,
+      140
+    ],
+    "velocity_range": [
+      1,
+      127
+    ],
+    "note_density": "high",
+    "rhythm_pattern": "irregular",
+    "chord_progression": [
+      "I",
+      "V",
+      "vi",
+      "IV"
+    ]
+  },
+  "sad": {
+    "tempo": [
+      49,
+      123
+    ],
+    "mode": "major",
+    "pitch_range": [
+      96,
+      198
+    ],
+    "velocity_range": [
+      1,
+      127
+    ],
+    "note_density": "low",
+    "rhythm_pattern": "irregular",
+    "chord_progression": [
+      "i",
+      "VII",
+      "VI",
+      "V"
+    ]
+  },
+  "fear": {
+    "tempo": [
+      80,
+      191
+    ],
+    "mode": "major",
+    "pitch_range": [
+      96,
+      140
+    ],
+    "velocity_range": [
+      1,
+      127
+    ],
+    "note_density": "high",
+    "rhythm_pattern": "irregular",
+    "chord_progression": [
+      "i",
+      "VI",
+      "III",
+      "VII"
+    ]
+  },
+  "surprise": {
+    "tempo": [
+      107,
+      172
+    ],
+    "mode": "major",
+    "pitch_range": [
+      96,
+      140
+    ],
+    "velocity_range": [
+      1,
+      127
+    ],
+    "note_density": "high",
+    "rhythm_pattern": "regular",
+    "chord_progression": [
+      "i",
+      "VII",
+      "VI",
+      "V"
+    ]
+  },
+  "calm": {
+    "tempo": [
+      90,
+      139
+    ],
+    "mode": "minor",
+    "pitch_range": [
+      96,
+      140
+    ],
+    "velocity_range": [
+      1,
+      127
+    ],
+    "note_density": "low",
+    "rhythm_pattern": "irregular",
+    "chord_progression": [
+      "I",
+      "V",
+      "vi",
+      "IV"
+    ]
+  },
+  "neutral": {
+    "tempo": [
+      89,
+      151
+    ],
+    "mode": "major",
+    "pitch_range": [
+      96,
+      141
+    ],
+    "velocity_range": [
+      1,
+      127
+    ],
+    "note_density": "medium",
+    "rhythm_pattern": "irregular",
+    "chord_progression": [
+      "i",
+      "VI",
+      "III",
+      "VII"
+    ]
+  },
+  "angry": {
+    "tempo": [
+      93,
+      172
+    ],
+    "mode": "major",
+    "pitch_range": [
+      96,
+      140
+    ],
+    "velocity_range": [
+      1,
+      127
+    ],
+    "note_density": "high",
+    "rhythm_pattern": "irregular",
+    "chord_progression": [
+      "i",
+      "VI",
+      "III",
+      "VII"
+    ]
+  },
+  "disgust": {
+    "tempo": [
+      63,
+      216
+    ],
+    "mode": "minor",
+    "pitch_range": [
+      96,
+      152
+    ],
+    "velocity_range": [
+      1,
+      127
+    ],
+    "note_density": "medium",
+    "rhythm_pattern": "irregular",
+    "chord_progression": [
+      "i",
+      "iv",
+      "v",
+      "i"
+    ]
+  }
+}
